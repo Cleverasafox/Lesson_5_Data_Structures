@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de500f8a-914d-4444-a1cb-db190ba4cab9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5_Data_Structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_1_SumArraysElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_2and3_2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_4_LargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_5_ReversingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_6_SumOfDiagonal2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_7_Palindrome.java" afterDir="false" />
+    <list default="true" id="de500f8a-914d-4444-a1cb-db190ba4cab9" name="Changes" comment="Homework for Collections">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653582027473</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework for Collections">
+      <created>1653836551765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653836551765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +122,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework for Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework for Collections" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
